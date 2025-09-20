@@ -1,0 +1,6 @@
+@GlobalAuditService_HostAddress = http://localhost:5190
+
+GET {{GlobalAuditService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
